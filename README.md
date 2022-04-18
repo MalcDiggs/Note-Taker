@@ -12,4 +12,4 @@ image of how app is designed to look.
 https://github.com/MalcDiggs/Note-Taker.git
 
 ## Link URL of deployed app to Heroku
-https://dashboard.heroku.com/apps/hidden-citadel-39295
+https://hidden-citadel-39295.herokuapp.com/
